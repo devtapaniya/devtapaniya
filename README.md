@@ -4,7 +4,7 @@
 - 👀 I’m interested in Coding and Bussiness Ethics
 - 🌱 I’m currently learning Bechlor Bachelor of Computer Application
 - 💞️ I’m looking to collaborate on 5th August
-- 📫 How to reach me None....!
+- 📫 How to reach me Mail to <u>devtapaniya@gmail.com</u> ....!
 
 <!---
 devtapaniya/devtapaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
