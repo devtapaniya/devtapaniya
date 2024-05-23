@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Hey%20Everyone%20👋&reversal=false)"/>
-</p>
+<b>DevTapaniya</b>
 
 - 👋 Hi, I’m @devtapaniya
 - 👀 I’m interested in Coding and Bussiness Ethics
