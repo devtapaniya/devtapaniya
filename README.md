@@ -1,6 +1,4 @@
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</div>
 
 - 👋 Hi, I’m @devtapaniya
 - 👀 I’m interested in Coding and Bussiness Ethics
