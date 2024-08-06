@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dev. Tapaniya and I'm a Frontend Developer, from Surat, Gujarat, India.</h2>
-
-###
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1214.gif"  />
+<h2 align="left">Hi 👋! My name is Dev. Tapaniya and I'm a Frontend Developer, from India.</h2>
 
 ###
 
